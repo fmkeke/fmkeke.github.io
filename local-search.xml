@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Clean Code</title>
+    <link href="/2021/10/15/Clean-Code/"/>
+    <url>/2021/10/15/Clean-Code/</url>
+    
+    <content type="html"><![CDATA[<p>naming Functions and Methods</p><p>1.functions computes a Boolean  </p><p>​    answer a true/false question,so we can use a question naming this variable</p><figure class="highlight actionscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs actionscript">isValid  modalIsOpen <br><br>and more detail <span class="hljs-keyword">is</span> nesscessary<br><br>EmailIsValid  OrderModalIsOpen<br></code></pre></td></tr></table></figure><p>2.functions performs a operation </p><p>  just describe the operation </p><figure class="highlight autoit"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs autoit">getUserInfo  handleReqResult <br>handleError getUserInfoByEmail<br>response.<span class="hljs-built_in">send</span>()<br></code></pre></td></tr></table></figure><p>examples  functions / Methods names</p><p><img src="C:\Users\kaka\AppData\Roaming\Typora\typora-user-images\image-20211015143619707.png" alt="image-20211015143619707"></p><h2 id="Naming-Classes"><a href="#Naming-Classes" class="headerlink" title="Naming Classes"></a>Naming Classes</h2>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>组件库开发初始化项目等问题</title>
+    <link href="/2021/10/15/%E7%BB%84%E4%BB%B6%E5%BA%93%E5%BC%80%E5%8F%91%E9%97%AE%E9%A2%98/"/>
+    <url>/2021/10/15/%E7%BB%84%E4%BB%B6%E5%BA%93%E5%BC%80%E5%8F%91%E9%97%AE%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<h3 id="组件库脚手架选择"><a href="#组件库脚手架选择" class="headerlink" title="组件库脚手架选择"></a>组件库脚手架选择</h3><p>开发的是react组件库,所以选择以umi为基础的dumi组件库.环境配置,或者是项目安装,打包集成的上手成本都降低很多.</p><p><a href="https://d.umijs.org/zh-CN">dumi官方文档</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2021/10/15/hello-world/"/>
+    <url>/2021/10/15/hello-world/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>前端规划</title>
+    <link href="/2021/07/07/%E5%89%8D%E7%AB%AF%E8%A7%84%E5%88%92/"/>
+    <url>/2021/07/07/%E5%89%8D%E7%AB%AF%E8%A7%84%E5%88%92/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
